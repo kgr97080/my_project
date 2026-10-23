@@ -8,4 +8,3 @@ const a =10;
 - git 공부하기
 - network 공부하기
 - ansible 공부하기 
-
